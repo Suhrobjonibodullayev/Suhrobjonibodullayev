@@ -22,7 +22,6 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 * Building practical ML and AI portfolio projects
 * Learning the full Machine Learning lifecycle
 * Improving my software engineering skills alongside AI
-* Writing clean, reproducible, and well-documented code
 * Long-term goal: build reliable AI systems used in real products
 
 ---
@@ -34,7 +33,6 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 * Studying Deep Learning with PyTorch
 * Learning Natural Language Processing and Transformer models
 * Practicing Computer Vision projects
-* Exploring MLOps tools such as Docker, MLflow, and DVC
 
 ---
 
@@ -86,51 +84,12 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 
 ---
 
-## Learning Roadmap
-
-| Area                           | Progress    |
-| ------------------------------ | ----------- |
-| Python                         | Completed   |
-| NumPy                          | Completed   |
-| Pandas                         | Completed   |
-| Data Visualization             | Completed   |
-| Statistics                     | Completed   |
-| Probability                    | Completed   |
-| Machine Learning               | Completed|
-| Deep Learning                  | In Progress |
-| Natural Language Processing    | In Progress |
-| Computer Vision                | In Progress |
-| Large Language Models          | Next        |
-| Retrieval-Augmented Generation | Next        |
-| MLOps                          | Next        |
-| Cloud Deployment               | Next        |
-
----
-
-## What I Am Building Toward
-
-My goal is to become a Machine Learning Engineer who can build complete AI systems, not only train models.
-
-I am working on improving these skills:
-
-* Data cleaning and preprocessing
-* Exploratory Data Analysis
-* Feature engineering
-* Model training and evaluation
-* Deep Learning architectures
-* NLP and Computer Vision pipelines
-* Experiment tracking
-* Model deployment
-* Clear technical documentation
-
----
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suhrobjonibodullayev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhrobjonibodullayev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -141,10 +100,7 @@ I am working on improving these skills:
 * Build 20 high-quality Machine Learning projects
 * Complete several end-to-end Deep Learning projects
 * Deploy ML applications with Streamlit, Gradio, and FastAPI
-* Learn Docker, MLflow, DVC, and basic cloud deployment
-* Write technical notes about Machine Learning concepts
 * Contribute to open-source AI projects
-* Keep a consistent GitHub contribution history
 
 ---
 
