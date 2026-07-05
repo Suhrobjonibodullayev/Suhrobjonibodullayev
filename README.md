@@ -84,18 +84,6 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhrobjonibodullayev&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhrobjonibodullayev&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 2026 Goals
 
 * Build 20 high-quality Machine Learning projects
