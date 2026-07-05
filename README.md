@@ -98,7 +98,7 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 * GitHub: [github.com/Suhrobjonibodullayev](https://github.com/Suhrobjonibodullayev)
 * LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
 * Kaggle: [kaggle.com/suhrobjonibodullaev](https://kaggle.com/suhrobjonibodullaev)
-* Email: suhrobjonibadullaev
+* Email: suhrobjonibadullaev@gmail.com
 
 ---
 
