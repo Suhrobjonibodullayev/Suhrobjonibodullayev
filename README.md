@@ -88,8 +88,9 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suhrobjonibodullayev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhrobjonibodullayev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhrobjonibodullayev&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhrobjonibodullayev&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
