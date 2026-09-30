@@ -79,7 +79,7 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 | Project                                                                                     | Description                                                              | Stack                              | Status      |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------- | ----------- |
 | [Credit Score Classification](https://github.com/YOUR_USERNAME/credit-score-classification) | Predicting customer credit score categories using supervised learning    | Python, Pandas, Scikit-learn       | In Progress |
-| [Image Classification](https://github.com/YOUR_USERNAME/image-classification-cnn)           | Deep Learning project using CNNs and transfer learning                   | PyTorch, TorchVision               | Planned     |
+| [Image Classification](https://github.com/YOUR_USERNAME/image-classification-cnn)           | Deep Learning project using CNNs and transfer learning                   | PyTorch, TorchVision               | Completed     |
 | [Sentiment Analysis](https://github.com/YOUR_USERNAME/sentiment-analysis-nlp)               | NLP project for classifying text sentiment                               | Python, Hugging Face, Transformers | Planned     |
 
 ---
