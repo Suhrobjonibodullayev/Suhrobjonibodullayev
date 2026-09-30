@@ -76,11 +76,11 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 
 ## Portfolio Projects
 
-| Project                                                                                     | Description                                                              | Stack                              | Status      |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------- | ----------- |
-| [Credit Score Classification](https://github.com/YOUR_USERNAME/credit-score-classification) | Predicting customer credit score categories using supervised learning    | Python, Pandas, Scikit-learn       | In Progress |
-| [Image Classification](https://github.com/YOUR_USERNAME/image-classification-cnn)           | Deep Learning project using CNNs and transfer learning                   | PyTorch, TorchVision               | Completed     |
-| [Sentiment Analysis](https://github.com/YOUR_USERNAME/sentiment-analysis-nlp)               | NLP project for classifying text sentiment                               | Python, Hugging Face, Transformers | Planned     |
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Credit Score Classification](https://github.com/Suhrobjonibodullayev/credit-score-classification) | Predicting customer credit score categories using supervised learning | Python, Pandas, Scikit-learn |
+| [Image Classification](https://github.com/Suhrobjonibodullayev/image-classification-cnn) | Deep Learning project using CNNs and transfer learning | PyTorch, TorchVision |
+| [Sentiment Analysis](https://github.com/Suhrobjonibodullayev/sentiment-analysis-nlp) | NLP project for classifying text sentiment | Python, Hugging Face, Transformers |
 
 ---
 
@@ -96,7 +96,7 @@ My main interests are Machine Learning, Deep Learning, Natural Language Processi
 ## Connect
 
 * GitHub: [github.com/Suhrobjonibodullayev](https://github.com/Suhrobjonibodullayev)
-* LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+* LinkedIn: [linkedin.com/in/suhrobjon-ibodullayev](https://linkedin.com/in/suhrobjon-ibodullayev)
 * Kaggle: [kaggle.com/suhrobjonibodullaev](https://kaggle.com/suhrobjonibodullaev)
 * Email: suhrobjonibadullaev@gmail.com
 
